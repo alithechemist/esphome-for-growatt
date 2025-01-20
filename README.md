@@ -1,3 +1,4 @@
+# Original Project: 
 # ESPhome for Growatt by Klatremis (still under development)
 ESPhome configuration for monitoring and control of Growatt inverters in Home Assistant.
 This include all addresses i could see relevant from the inverter.
@@ -6,6 +7,11 @@ This include all addresses i could see relevant from the inverter.
 * For KlatremisHW, use "klatremishw" code
 
 ## Supported devices
+
+### SPF Inverters
+ * 6000ES Plus (tested)
+ * 5000ES (Untested but it uses the same protocol as the 6000, so it should work)
+
 ### SPH inverters
 * SPH3600 (confirmed)
 * SPH10000TL3 (not confirmed)
